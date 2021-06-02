@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "696539643783",
+    "project_id": "ifood-novo",
+    "storage_bucket": "ifood-novo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696539643783:android:98455701c358afe8cadd22",
+        "android_client_info": {
+          "package_name": "com.br.ifoodnovo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696539643783-21htn9t0mtjjc70hksitdalnulp1s787.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.ifoodnovo",
+            "certificate_hash": "e0658d8adf6da4eb251147b6d6d479c1c4135bbe"
+          }
+        },
+        {
+          "client_id": "696539643783-457kbdrf77nfn4ors18qgl7k8mct5eh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8olKc4vVU4XiVUwOXPnEj4M_5XmCz6Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696539643783-457kbdrf77nfn4ors18qgl7k8mct5eh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
